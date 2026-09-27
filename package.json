@@ -1,0 +1,12 @@
+{
+  "name": "chaoxing-course-helper",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js && node --check src/browser.js && node --check src/course.js && node --check src/player.js && node --check src/document.js && node --check src/report.js"
+  },
+  "dependencies": {
+    "playwright-core": "1.63.0"
+  }
+}

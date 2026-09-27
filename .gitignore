@@ -1,0 +1,17 @@
+# Local browser state and run artifacts may contain account or course data.
+/data/
+/runs/
+/samples/
+/node_modules/
+/.npm-cache/
+/config.local.json
+
+# Local configuration, if added later.
+/.env
+/.env.*
+!/.env.example
+#some materials that assist the development
+/1.png
+/2.png
+/3.png
+/屏幕截图*.png

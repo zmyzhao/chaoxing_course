@@ -1,0 +1,8 @@
+{
+  "courseUrl": "",
+  "edgeExecutable": "",
+  "profileDir": "data/edge-profile",
+  "runsDir": "runs",
+  "loginWaitMinutes": 10,
+  "stallMinutes": 2
+}
